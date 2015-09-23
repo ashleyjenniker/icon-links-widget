@@ -3,8 +3,8 @@ Contributors: iammathews
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=yusrimathews%40gmail%2ecom&lc=ZA&item_name=Yusri%20Mathews&item_number=icon%2dlinks%2dwidget&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: social, link, widget, icon
 Requires at least: 3.9
-Tested up to: 4.2
-Stable tag: 4.2
+Tested up to: 4.3.1
+Stable tag: 4.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
