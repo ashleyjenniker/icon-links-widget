@@ -123,7 +123,10 @@ class ilw_widget extends WP_Widget {
 		}
 
 		$fieldcount = count( $fields );
-		$arraykey = array_pop( array_keys( $fields ) );
+
+		$arraypop = array_keys( $fields );
+		$arraykey = array_pop( $arraypop );
+
 		if( $fieldcount == 0 || !empty( $fields[ $arraykey ]['icon'] ) ){
 	        $fields[ $fieldcount ]['icon'] = '';
 	        $fields[ $fieldcount ]['link'] = '';
