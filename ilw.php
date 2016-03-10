@@ -3,7 +3,7 @@
  * Plugin Name: Icon Links Widget
  * Plugin URI: https://wordpress.org/plugins/icon-links-widget/
  * Description: A simple icon links widget, allowing you to add FontAwesome icons to any widget area and link them anywhere.
- * Version: 2.5.1
+ * Version: 2.5.2
  * Author: Yusri Mathews
  * Author URI: http://yusrimathews.co.za/
  * License: GPLv2 or later
