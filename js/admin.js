@@ -1,6 +1,6 @@
 function ilw_initialize_sortable(){
 	jQuery( '.ilw_sortable' ).sortable();
-	jQuery( '.ilw_sortable' ).disableSelection();
+	//jQuery( '.ilw_sortable' ).disableSelection();
 
 	jQuery('.ilw_widget .widget-title-action, .ilw_widget .widget-title-action a').unbind();
 
